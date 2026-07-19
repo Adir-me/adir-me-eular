@@ -1,0 +1,6 @@
+{
+  "name": "Euler",
+  "description": "A production-grade, lightweight, and fast AI coding agent designed for Termux and Alpine Linux, featuring an interactive terminal simulation, visual codebase viewer, and automated setup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
